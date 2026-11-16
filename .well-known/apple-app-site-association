@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["55CYA3K2Q6.io.github.zero3kw.QRonostasis"],
+        "components": [
+          { "/": "/QRonostasis/??????????", "comment": "A QRonostasis code: Unix seconds" },
+          { "/": "/QRonostasis/??????????/" }
+        ]
+      }
+    ]
+  }
+}
